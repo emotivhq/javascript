@@ -1,6 +1,6 @@
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/airbnb/javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/giftstarter/?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-# Airbnb JavaScript Style Guide, Meteor edition
+# GiftStarter JavaScript Style Guide, Meteor edition
 
 *A mostly reasonable approach to JavaScript, with some Meteor flavor*
 
@@ -41,7 +41,7 @@ All rules that are automatically linted have the ESLint logo, with a link to the
   1. [In the Wild (in AirBnB guide)](https://github.com/airbnb/javascript#in-the-wild)
   1. [Translation (in AirBnB guide)](https://github.com/airbnb/javascript#translation)
   1. [The JavaScript Style Guide Guide (in AirBnB guide)](https://github.com/airbnb/javascript#the-javascript-style-guide-guide)
-  1. [Chat With Us About Javascript (in AirBnB guide)](https://github.com/airbnb/javascript#chat-with-us-about-javascript)
+  1. [Chat With AirBnB About Javascript (in AirBnB guide)](https://github.com/airbnb/javascript#chat-with-us-about-javascript)
   1. [Contributors](#contributors)
   1. [License](#license)
 
